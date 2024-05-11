@@ -77,3 +77,9 @@ h2 {
 .time:nth-of-type(4) span:nth-child(2) {
   background-color: #2ad587;
 }
+
+@media screen and (max-width: 410px){
+    body {
+        margin-top: 40px;
+    }
+}
